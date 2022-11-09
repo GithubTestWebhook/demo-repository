@@ -4,3 +4,7 @@ def test_method():
 
 def create_dummy_method():
     return "created dummy method here."
+
+
+def update_method():
+    return "update here something"
