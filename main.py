@@ -4,3 +4,8 @@ def test_method():
 
 def create_dummy_method():
     return "created dummy method here."
+
+
+def create_new_branch():
+    # Dummy Data
+    return "create new branch"
