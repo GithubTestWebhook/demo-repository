@@ -12,6 +12,3 @@ def update_method():
 # added changes in main file
 # updated something here for testing multiple commit.
 # again commit here.
-
-#Second time
-#testing
