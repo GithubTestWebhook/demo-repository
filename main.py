@@ -7,5 +7,4 @@ def create_dummy_method():
 
 
 def create_new_branch():
-    # Dummy Data
     return "create new branch"
